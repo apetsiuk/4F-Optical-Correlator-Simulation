@@ -8,7 +8,7 @@ The 4F Optical Correlator system is based on the Fourier transforming properties
 
 ![Model of the experiment](Setup.jpg) <br/> 
 **Figure 0.** Model of the experiment
-<br/> 
+<br/> <br/> 
 
 ### Matlab Setup
 An input is a transparent image of a black letter "A". Matlab simulation was performed for the following filter parameters:
@@ -20,20 +20,44 @@ An input is a transparent image of a black letter "A". Matlab simulation was per
 | Slit long side | 800 microns      |
 | Slits short side | 120 microns |
 | Spacing between centers of the slits | 300 microns |
+<br/> <br/> 
 
 ### Simulation Results
 
 
 ![No Filter](simulation-results/No_Filter.jpg) <br/> 
 **Figure 1.** No Filter
-<br/> 
+<br/> <br/> 
 
-![No Filter](simulation-results/No Filter.jpg) <br/> 
-**Figure 1.** No Filter
-<br/> 
+![Pinhole.jpg](simulation-results/Pinhole.jpg) <br/> 
+**Figure 2.** Pinhole
+<br/> <br/> 
 
-![No Filter](simulation-results/No Filter.jpg) <br/> 
-**Figure 1.** No Filter
-<br/> 
+![Horizontal Single Slit](simulation-results/Horizontal_Single_Slit.jpg) <br/> 
+**Figure 3.** Horizontal Single Slit
+<br/> <br/> 
+
+![Horizontal Double Slit](simulation-results/Horizontal_Double_Slit.jpg) <br/> 
+**Figure 4.** Horizontal Double Slit
+<br/> <br/> 
+
+![Vertical Single Slit](simulation-results/Vertical_Single_Slit.jpg) <br/> 
+**Figure 5.** Vertical Single Slit
+<br/> <br/> 
+
+![Vertical Double Slit](simulation-results/Vertical_Double_Slit.jpg) <br/> 
+**Figure 6.** Vertical Double Slit
+<br/> <br/> 
+
+![Fresnel Zone](simulation-results/Fresnel_Zone.jpg) <br/> 
+**Figure 7.** Fresnel Zone
+<br/> <br/> 
+
+![Mesh](simulation-results/Mesh.jpg) <br/> 
+**Figure 8.** Mesh
+<br/> <br/> 
+
+&mdash; end &mdash;
+
 
 
