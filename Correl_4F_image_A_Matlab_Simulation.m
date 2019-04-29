@@ -1,7 +1,15 @@
 % -----------------------------------------------------------------------%
+% 4F Correlator Matlab Simulation
+% 
+% Aliaksei Petsiuk 2019
+% apetsiuk@mtu.edu
+%
+% -----------------------------------------------------------------------%
+
+
 clear all;
 close all;
-clc
+clc;
 
 %% Make pixel array
 len = 512; %number of pixels in the array
