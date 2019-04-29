@@ -1,7 +1,7 @@
 
 # 4F Optical Correlator Simulation
 
- >*A Matlab simulation for a 4F Correlator system which is based on the Fourier transforming properties of lenses.*
+ >*A Matlab simulation for a 4F Correlator system which is based on the Fourier transforming properties of lenses.<br/>Aliaksei Petsiuk, 2019*
 <br/> 
 
 The 4F Optical Correlator system is based on the Fourier transforming properties of lenses. According to the Diffraction theory, a convex lens of focal length f will produce the Fourier transform at a distance f behind the lens of an object placed at f distance in front of the lens. These properties give us an opportunity to implement direct and inverse Fourier transforms of two-dimensional objects and modify and analyze their spatial frequency spectra. <br/> 
@@ -57,6 +57,7 @@ An input is a transparent image of a black letter "A". Matlab simulation was per
 **Figure 8.** Mesh
 <br/> <br/> 
 
+*Aliaksei Petsiuk, 2019* <br/> 
 &mdash; end &mdash;
 
 
