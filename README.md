@@ -24,7 +24,7 @@ An input is a transparent image of a black letter "A". Matlab simulation was per
 ### Simulation Results
 
 
-![No Filter](simulation-results/No Filter.jpg) <br/> 
+![No Filter](simulation-results/No_Filter.jpg) <br/> 
 **Figure 1.** No Filter
 <br/> 
 
